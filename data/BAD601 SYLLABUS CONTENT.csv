@@ -1,0 +1,64 @@
+COURSE TITLE,COURSE CREDITS,COURSE MODULE,TOPIC,WEIGHT,EST STUDY HOURS
+BIG DATA ANALYTICS,4,1,Classification of data,1,1
+BIG DATA ANALYTICS,4,1,"Characteristics, Evolution and definition of Big data",2,1.5
+BIG DATA ANALYTICS,4,1,"What is Big data, Why Big data",2,1.5
+BIG DATA ANALYTICS,4,1,Traditional Business Intelligence Vs Big Data,3,2
+BIG DATA ANALYTICS,4,1,Typical data warehouse and Hadoop environment,3,2
+BIG DATA ANALYTICS,4,1,Big Data Analytics: What is Big data Analytics,1,1
+BIG DATA ANALYTICS,4,1,Classification of Analytics,2,1.5
+BIG DATA ANALYTICS,4,1,Importance of Big Data Analytics,1,1
+BIG DATA ANALYTICS,4,1,Technologies used in Big data Environments,2,1.5
+BIG DATA ANALYTICS,4,1,"Few Top Analytical Tools , NoSQL, Hadoop",3,2
+BIG DATA ANALYTICS,4,2,Introducing hadoop,1,1
+BIG DATA ANALYTICS,4,2,"Why hadoop, Why not RDBMS",3,2
+BIG DATA ANALYTICS,4,2,RDBMS Vs Hadoop,3,2
+BIG DATA ANALYTICS,4,2,History of Hadoop,1,1
+BIG DATA ANALYTICS,4,2,Hadoop overview,1,1
+BIG DATA ANALYTICS,4,2,Use case of Hadoop,2,1.5
+BIG DATA ANALYTICS,4,2,HDFS (Hadoop Distributed File System),3,2
+BIG DATA ANALYTICS,4,2,Processing data with Hadoop,3,2
+BIG DATA ANALYTICS,4,2,Managing resources and applications with Hadoop YARN(Yet Another Resource Negotiator),3,2
+BIG DATA ANALYTICS,4,2,Introduction to Map Reduce Programming,3,2
+BIG DATA ANALYTICS,4,2,Mapper,2,1.5
+BIG DATA ANALYTICS,4,2,Reducer,2,1.5
+BIG DATA ANALYTICS,4,2,Combiner,2,1.5
+BIG DATA ANALYTICS,4,2,Partitioner,2,1.5
+BIG DATA ANALYTICS,4,2,Searching,2,1.5
+BIG DATA ANALYTICS,4,2,Sorting,2,1.5
+BIG DATA ANALYTICS,4,2,Compression,2,1.5
+BIG DATA ANALYTICS,4,3,Introduction to MongoDB: What is MongoDB,1,1
+BIG DATA ANALYTICS,4,3,Why MongoDB,2,1.5
+BIG DATA ANALYTICS,4,3,Terms used in RDBMS and MongoDB,3,2
+BIG DATA ANALYTICS,4,3,Data Types in MongoDB,2,1.5
+BIG DATA ANALYTICS,4,3,MongoDB Query Language,3,2
+BIG DATA ANALYTICS,4,4,Introduction to Hive: What is Hive,1,1
+BIG DATA ANALYTICS,4,4,Hive Architecture,3,2
+BIG DATA ANALYTICS,4,4,Hive data types,2,1.5
+BIG DATA ANALYTICS,4,4,Hive file formats,2,1.5
+BIG DATA ANALYTICS,4,4,Hive Query Language (HQL),3,2
+BIG DATA ANALYTICS,4,4,RC File implementation,2,1.5
+BIG DATA ANALYTICS,4,4,User Defined Function (UDF),2,1.5
+BIG DATA ANALYTICS,4,4,Introduction to Pig: What is Pig,1,1
+BIG DATA ANALYTICS,4,4,Anatomy of Pig,2,1.5
+BIG DATA ANALYTICS,4,4,Pig on Hadoop,2,1.5
+BIG DATA ANALYTICS,4,4,Pig Philosophy,1,1
+BIG DATA ANALYTICS,4,4,Use case for Pig,2,1.5
+BIG DATA ANALYTICS,4,4,Pig Latin Overview,2,1.5
+BIG DATA ANALYTICS,4,4,Data types in Pig,2,1.5
+BIG DATA ANALYTICS,4,4,Running Pig,1,1
+BIG DATA ANALYTICS,4,4,Execution Modes of Pig,2,1.5
+BIG DATA ANALYTICS,4,4,HDFS Commands,2,1.5
+BIG DATA ANALYTICS,4,4,Relational Operators,3,2
+BIG DATA ANALYTICS,4,4,Eval Function,3,2
+BIG DATA ANALYTICS,4,4,Complex Data Types,2,1.5
+BIG DATA ANALYTICS,4,4,Piggy Bank,1,1
+BIG DATA ANALYTICS,4,4,User Defined Function,3,2
+BIG DATA ANALYTICS,4,4,Pig Vs Hive,3,2
+BIG DATA ANALYTICS,4,5,Spark and Big Data Analytics: Spark,3,2
+BIG DATA ANALYTICS,4,5,Introduction to Data Analysis with Spark,3,2
+BIG DATA ANALYTICS,4,5,"Text, Web Content and Link Analytics: Introduction",1,1
+BIG DATA ANALYTICS,4,5,Text Mining,2,1.5
+BIG DATA ANALYTICS,4,5,Web Mining,2,1.5
+BIG DATA ANALYTICS,4,5,Web Content and Web Usage Analytics,2,1.5
+BIG DATA ANALYTICS,4,5,Page Rank,3,2
+BIG DATA ANALYTICS,4,5,Structure of Web and Analyzing a Web Graph,3,2

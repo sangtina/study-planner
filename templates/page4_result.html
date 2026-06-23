@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Study Routine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #999;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h2, p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Your Personalized Success Plan is Ready.</h2>
+<p>Total Study Hours: {{ total_hours }}</p>
+
+<table>
+    <tr>
+        <th>Month</th>
+        <th>Week</th>
+        <th>Day</th>
+        <th>Topic</th>
+        <th>Hours</th>
+    </tr>
+
+    {% for row in routine %}
+    <tr>
+        <td>{{ row.month if row.month else "Nil" }}</td>
+        <td>{{ row.week if row.week else "Nil" }}</td>
+        <td>{{ row.day }}</td>
+        <td>{{ row.topic }}</td>
+        <td>{{ row.hours }}</td>
+    </tr>
+    {% endfor %}
+
+</table>
+
+</body>
+</html>
